@@ -156,6 +156,8 @@ local Defaults = {
                     Layout = {"RIGHT", "LEFT", -1, 0},
                     Zoom = 0.3,
                     UseClassPortrait = false,
+                    RightClickMenuOnPortrait = false,
+                    LeftClickTargetOnPortrait = false,
                 },
                 Indicators = {
                     RaidTargetMarker = {
